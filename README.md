@@ -70,4 +70,6 @@ What acted as the central processing unit of the machine, was the EV3 brick unit
 
 Ultrasonic sensors and color sensors were taken into consideration in order for the obstacle avoidance to occur. Using both, to detect an object and its color to do adequate commands, set forth by the code that would be used in the contest proper. When the ultrasonic sensor is not able to procure data, the color sensor situated underneath the machine, acts as a viable substitute. For detection of different marks found in the field, ensuring actions correspond to the value detected.
 
+## Schematics
 
+![schematics](https://github.com/binksera/Robo-Royalty--WRO--Future-Engineers/blob/3c52bfb5d90208b54006214d9edb91eacf278f0e/schemes/Schematic.jpg)
