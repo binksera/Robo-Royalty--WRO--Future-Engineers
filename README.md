@@ -11,6 +11,16 @@ Coder: Enraig R. Gacosta
 
 Researcher: Marc Warren S. Loma
 
+## Team Photos
+
+**Funny Photo**
+
+![Funny Photo](https://github.com/binksera/Robo-Royalty--WRO--Future-Engineers/blob/aca9caa2913c493eced1d5b47a3b6142e6d69de0/t-photos/Funny%20Photo.png)
+
+**Official Photo**
+
+![Official Photo](https://github.com/binksera/Robo-Royalty--WRO--Future-Engineers/blob/aca9caa2913c493eced1d5b47a3b6142e6d69de0/t-photos/Official%20Photo.png)
+
 ## Engineering Materials:
 
  - Blocks from lego
